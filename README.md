@@ -41,10 +41,6 @@ To execute the SQL queries provided in this repository:
 2. Import the flights dataset into your database.
 3. Execute the SQL queries using your preferred SQL client or command line interface.
 
-## Contributors
-
-- [CampusX](https://github.com/CampusX)
-
 Contributions to this case study repository are welcome, including adding more SQL queries, improving existing queries, or providing additional insights from the flight dataset.
 
 Happy analyzing!

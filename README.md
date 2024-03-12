@@ -9,15 +9,17 @@ In this case study, we analyze a flight dataset containing flight dates, times, 
 ## Dataset Description
 
 The flight dataset consists of the following columns:
+- `Airline`: Names of Various airlines.
 - `Date_of_journey`: Date of the flight journey.
-- `Dep_Time`: Departure time of the flight.
-- `Arrival_Time`: Arrival time of the flight.
+- `Departure`: Departure time of the flight.
+- `Arrival`: Arrival time of the flight.
 - `Duration`: Duration of the flight.
 - `Airline`: Airline operating the flight.
 - `Source`: Departure city.
 - `Destination`: Destination city.
 - `Total_Stops`: Number of stops during the flight.
 - `Price`: Ticket price.
+- `Additional_Info`: Additional information about journey.
 
 ## Case Study Objectives
 
